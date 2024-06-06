@@ -1,0 +1,22 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.center {
+  justify-content: right;
+}
+
+.border {
+  border: 4px solid;
+}
+
+.rightPosition {
+  position: absolute;
+  right: 0;
+  margin-right: 8px;
+}
+
+.date {
+  width: 100%;
+}
